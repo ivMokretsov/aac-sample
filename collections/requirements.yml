@@ -1,5 +1,4 @@
 ---
 collections:
   - name: astra.nginx
-    source: git+ssh://git@hub.astra-automation.ru:2222/aa-gca/ARFA/nginx.git
-    type: git
+    source: ssh://git@hub.astra-automation.ru:2222/aa-gca/ARFA/nginx.git
