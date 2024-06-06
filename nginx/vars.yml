@@ -1,0 +1,10 @@
+---
+aac_site_title: AAC Demo project
+aac_site_header: Welcome to AAC Demo project
+aac_site_body: |
+  <p>This page was generated to show the capabilities of Astra Automation</p>
+
+  <p>For online documentation and support please refer to
+  <a href="https://docs.astra-automation.ru/">docs.astra-automation.ru</a>.<br/>
+  </p>
+aac_site_footer: Copyright © 2023. All rights reserved.
